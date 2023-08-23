@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6fade6fdc3f07110c3411f53e4013163" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="32" max_length="10" name="integer" type="string"/>
+        <element label="Integrer" max_length="40" name="integrer" type="string"/>
+    </element>
+</database>
